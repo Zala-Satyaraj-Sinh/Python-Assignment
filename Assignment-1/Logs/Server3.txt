@@ -1,0 +1,5 @@
+Server started
+Warning: high CPU usage
+User login successful
+Error processing request
+Server stopped

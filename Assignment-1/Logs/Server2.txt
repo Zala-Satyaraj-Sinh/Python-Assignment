@@ -1,0 +1,5 @@
+Server started
+User admin logged in
+Database connection established
+Request completed
+Server stopped

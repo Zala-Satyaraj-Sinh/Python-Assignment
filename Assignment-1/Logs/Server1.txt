@@ -1,0 +1,5 @@
+Server started
+User login successful
+Database connection established
+Error connecting to database
+Server stopped

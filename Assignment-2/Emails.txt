@@ -1,0 +1,4 @@
+Contact a.b+1@adit.edu
+Send mail to test-user@x.org
+Invalid email root@@bad.com
+Another email a.b+1@adit.edu
